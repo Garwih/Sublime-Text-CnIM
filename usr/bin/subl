@@ -1,0 +1,3 @@
+#!/bin/sh
+export LD_PRELOAD=/opt/sublime_text/sub-fcitx-cn.so
+exec /opt/sublime_text/sublime_text "$@"
