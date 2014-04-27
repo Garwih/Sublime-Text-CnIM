@@ -7,7 +7,7 @@ Sublime-Text-CnIM
 ```bash
     git clone https://github.com/Garwih/Sublime-Text-CnIM.git
 ```
-####*.使用sublime text 3官方.deb安装包安装的：
+####*.使用Sublime Text 3官方.deb安装包安装的：
 **复制文件到对应目录，然后通过subl启动即可**
 ```bash
     cd Sublime-Text-CnIM
