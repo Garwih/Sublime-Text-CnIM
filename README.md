@@ -1,15 +1,14 @@
 Sublime-Text-CnIM
 =================
 
-Linux下的Sublime Text中文输入法支持文件
 以下内容运行在Ubuntu 14.04中，其他Linux发行版理论上大同小异，请根据你的系统环境做相应的更改。
 
 ###下载
-```Bash
+```bash
     git clone https://github.com/Garwih/Sublime-Text-CnIM.git
 ```
 ####*.使用sublime text 3官方.deb安装包安装的：
-**复制文件到对应目录**
+**复制文件到对应目录，然后通过subl启动即可**
 ```bash
     cd Sublime-Text-CnIM
     sudo cp -r usr /
@@ -43,7 +42,7 @@ Linux下的Sublime Text中文输入法支持文件
 ```bash
     sudo gedit /usr/bin/subl
 ```
-*在**#!/bin/sh**下面添加一行*
+*在#!/bin/sh下面添加一行*
 ```bash
     export LD_PRELOAD=/opt/sublime_text/sub-fcitx-cn.so
 ```
