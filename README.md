@@ -1,13 +1,17 @@
 Sublime-Text-CnIM
 =================
+**该项目已废弃，请使用更优秀的解决方案：**
+
+https://github.com/lyfeyaj/sublime-text-imfix
+
 
 以下内容运行在Ubuntu 14.04中，其他Linux发行版理论上大同小异，请根据你的系统环境做相应的更改。
 
-###下载
+### 下载
 ```Shell
     git clone https://github.com/Garwih/Sublime-Text-CnIM.git
 ```
-###使用Sublime Text 3官方.deb安装包安装的：
+### 使用Sublime Text 3官方.deb安装包安装的：
 复制文件到对应目录，然后通过`subl`启动即可
 ```Shell
     cd Sublime-Text-CnIM
@@ -15,7 +19,7 @@ Sublime-Text-CnIM
     sudo cp -r opt /
 ```
 ----------
-###其他方式安装的：
+### 其他方式安装的：
 
 安装编译环境
 ```Shell
@@ -50,4 +54,4 @@ Sublime-Text-CnIM
 ```
 在终端执行`subl`启动Sublime Text 3
 
-###Enjoy～
+### Enjoy～
